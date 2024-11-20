@@ -1,0 +1,44 @@
+body{
+background-color: #5BF9F9 ;
+text-align: center ;
+}
+
+
+
+ol{
+font-family: cursive ; color: #000000 ;
+list-style-position: inside;
+}
+ul{
+font-family:cursive ; color: #000000 ;
+list-style-position: inside;
+padding-left: 450px ;
+text-align: left ;
+}
+
+h1{	text-decoration: underline ;
+	text-align: center ;
+	font-family: Lucida Handwriting  ; color: #000000
+}
+h2{
+	text-align: center ;
+	font-family:Lucida Handwriting ; color: #000000
+}
+h3{
+	text-align: center ;
+	font-family:Lucida Handwriting ; color: #000000
+}
+.nav{
+	text-align: left ;
+}
+img.atc{
+	width: 50px
+}
+
+p{
+font-family: cursive; color : #000000 ;
+}
+iframe{
+ width: 586px;
+ height:439px;
+}
